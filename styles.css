@@ -117,4 +117,17 @@ p {
       "k"
       "k";
   }
+  .purple {
+    min-height: 280px;
+  }
+  .white {
+    min-height: 200px;
+  }
+  .smoke {
+    min-height: 200px;
+  }
+  .black {
+    min-height: 340px;
+    width: 250px;
+  }
 }
